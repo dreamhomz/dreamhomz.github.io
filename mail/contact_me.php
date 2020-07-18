@@ -1,7 +1,7 @@
 <?php
   if ($_POST['name'] !=" ") {
 
-$to      = 'dreamhomz5195@gmail.com';
+$to      = 'smd@dreamhomz.net.in';
 $subject = 'Enquiry From Customer';
 $message = '
 <html>
