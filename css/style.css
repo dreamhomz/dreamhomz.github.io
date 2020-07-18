@@ -120,7 +120,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #eee;
 }
 .on {
-	background-color: #363636 !important;
+	/*background-color: #363636 !important;*/
+	background-color: #797979 !important;
 	padding: 0 !important;
 	padding: 10px 0 !important;
 }
@@ -558,4 +559,8 @@ color: #777;
     height: 300px;
 	width: 555px;
 }
+}
+.logo img{
+	width: 150px;
+	height: 60px;
 }
