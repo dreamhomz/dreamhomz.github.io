@@ -545,7 +545,7 @@ color: #777;
   background-color: #555; /* Add a dark-grey background on hover */
 }
 
-body {
+ html {
   scroll-behavior: smooth;
 }
 @media only screen and (max-width: 600px) {
