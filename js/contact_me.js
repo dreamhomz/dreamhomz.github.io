@@ -44,7 +44,7 @@ $(function() {
                 error: function() {
                     // Fail message
                   
-                    $('#contactForm').trigger("reset");
+//                     $('#contactForm').trigger("reset");
                 },
             })
         },
